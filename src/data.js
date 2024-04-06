@@ -12,7 +12,7 @@ export const projects = [
     subtitle: "[HTML] [Tailwind CSS] [YouTube Embbeded]",
     description:
       "With FirstStep, you can prepare for Courses with ease. Access Youtube lecture from top educator and get a roadmap and handwritten notes to enhance your coding skill.",
-    image: "./project-2.gif",
+    image: "FirstStep.gif",
     link: "https://firststep-one.vercel.app",
   }
 ];
