@@ -21,7 +21,7 @@ export default function About() {
               Projects
             </a>
             <a
-              href="Devang Chaudhari_CV.pdf"
+              href="Devang Chaudhari CV.pdf"
 
               rel="noopener noreferrer" // Add these attributes for security purposes
               className="ml-4 inline-flex text-gray-400 bg-gray-800 border-0 py-2 px-6 focus:outline-none hover:bg-gray-700 hover:text-white rounded text-lg"
