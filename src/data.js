@@ -31,6 +31,5 @@ export const skills = [
   "Git",
   "MongoDB",
   "Material UI",
-  
   "Figma",
 ];
