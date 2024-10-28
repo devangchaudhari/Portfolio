@@ -8,6 +8,14 @@ export const projects = [
     link: "https://apti-q.vercel.app",
   },
   {
+    title: "IntelliLoan",
+    subtitle: "[React] [Node] [Nodemailer] [Flask] [MongoDB] [NEWS API]",
+    description:
+      "Enhancing Loan Approval Processes with Predictive Analytics.",
+    image: "AptiQ.gif",
+    link: "https://intelli-loan.vercel.app",
+  },
+  {
     title: "First Step",
     subtitle: "[HTML] [Tailwind CSS] [YouTube Embbeded]",
     description:
